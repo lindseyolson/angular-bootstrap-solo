@@ -3,7 +3,7 @@
 [X] get server running
 [X] create index file with sources, bootstrap set up & some static content
 [X] create angular module and controllers
-[ ] give the partials content
-[ ] use angular to give buttons functionality
-[ ] create routes
-[ ] create controllers
+[X] give the partials content
+[X] use angular to give buttons functionality
+[ ] add photos
+[ ] add photos with angular functionality
