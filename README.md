@@ -5,5 +5,6 @@
 [X] create angular module and controllers
 [X] give the partials content
 [X] use angular to give buttons functionality
+[ ] use bootstrap functionality
 [ ] add photos
 [ ] add photos with angular functionality

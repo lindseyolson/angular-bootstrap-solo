@@ -23,4 +23,5 @@ app.controller('DefaultController', DefaultController);
 
 function DefaultController() {
   console.log('DefaultController is loaded');
+
 }
